@@ -1,2 +1,2 @@
-# Portfolio
-Create a github pages portfolio for data science projects
+# Ken_Portfolio
+A data science portfolio of Ken Jee.
