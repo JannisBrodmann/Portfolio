@@ -1,2 +1,2 @@
-# Ken_Portfolio
-A data science portfolio of Ken Jee.
+# Jannis Brodmann Portfolio
+A data science portfolio of Jannis Brodmann.
